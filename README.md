@@ -1,0 +1,2 @@
+# regchannginxproxy
+regchan nginx
